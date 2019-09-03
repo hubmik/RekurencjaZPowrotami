@@ -1,0 +1,7 @@
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\bin\Debug\RekurencjaZPowrotami.exe.config
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\bin\Debug\RekurencjaZPowrotami.exe
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\bin\Debug\RekurencjaZPowrotami.pdb
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\obj\Debug\RekurencjaZPowrotami.csprojAssemblyReference.cache
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\obj\Debug\RekurencjaZPowrotami.csproj.CoreCompileInputs.cache
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\obj\Debug\RekurencjaZPowrotami.exe
+C:\Users\hubmi\source\repos\Sztuczna Inteligencja\RekurencjaZPowrotami\RekurencjaZPowrotami\obj\Debug\RekurencjaZPowrotami.pdb
